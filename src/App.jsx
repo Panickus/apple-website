@@ -6,6 +6,8 @@ import Features from "./components/Features";
 
 import * as Sentry from "@sentry/react";
 
+import * as Sentry from "@sentry/react";
+
 const App = () => {
   return (
     <main className="bg-black">
